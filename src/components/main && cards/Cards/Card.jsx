@@ -12,7 +12,7 @@ const Card = () => {
         </div>
       </div>
 
-      <div className={styles.filmTitle}>Смерть на ниле</div>
+      <div className={styles.filmTitle}>Смерть наa ниле</div>
       <div className={styles.genresWrap}>
         <div className={styles.genres}>триллер</div>
         <div className={styles.genres}>криминал</div>
